@@ -4,8 +4,7 @@
   // ====== DANH MỤC KEY ======
   window.UCHIHA_KEYS = {
     "PanelKeyVip": { plan:{days:0},  note:"100000Days" },
-    "PanelKey": { plan:{days:5}, note:"Free5Days" },
-     "PanelKey2026": { plan:{days:30}, note:"Vip30" }
+    "PanelKey": { plan:{days:5}, note:"Free5Days" }
   };
 
   // ====== STORAGE ======
